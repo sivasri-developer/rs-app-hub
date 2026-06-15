@@ -21,7 +21,7 @@ A smart web app that brings all your favourite shopping, food and OTT apps in on
 - JavaScript (localStorage)
 
 ## Live Demo
-[Click here to open](https://sivasri-developer.github.io/rs-app-hub)
+[Click here to open](https://sivasri-developer.github.io/rs-app-hub/)
 
 ---
 Built by RS ❤️
